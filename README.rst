@@ -1,0 +1,1 @@
+This is a library for performing spectral analysis on nonuniformly-sampled data using the nonuniform discrete Fourier transform (NDFT). Read the included documentation for more details.
